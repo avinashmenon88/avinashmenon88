@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Avinash Menon
 
-<!--
-**avinashmenon88/avinashmenon88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack .NET developer focused on enterprise applications, secure workflows, Blazor, ASP.NET Core APIs, SQL Server, document processing, and system integrations.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secure document verification systems
+- Blazor and ASP.NET Core business applications
+- SQL Server-backed workflow systems
+- Batch processing and XML/data processing tools
+- API integrations with audit logging and role-based access
+
+## Core Skills
+
+C# / .NET 8 / ASP.NET Core / Blazor / Web API / EF Core / SQL Server / IIS / GitHub Actions / Security / System Design
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| Document Verification Portal | Secure document upload, extraction, verification, audit logs | Blazor, .NET 8, SQL Server |
+| Card Centre Workflow | Batch processing, AWB matching, fulfillment tracking | .NET, SQL Server, APIs |
+| XML Processor | High-volume XML processing with database insertion | C#, SQL Server |
+
+## Current Focus
+
+Improving enterprise architecture, secure API design, GitHub workflows, CI/CD, and portfolio-grade documentation.
